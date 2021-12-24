@@ -1,0 +1,14 @@
+*{
+    background-color: papayawhip;
+    font-family: Arial;
+}
+h1 {
+    color:maroon;
+}
+div {
+    font-family:sans-serif;
+}
+.credit{
+    font-style: italic;
+    color: maroon;
+}

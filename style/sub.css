@@ -1,0 +1,10 @@
+* {
+    background-color: khaki;
+    font-family: Arial;
+}
+h1, h3 {
+    color: green;
+}
+p, ul, ol {
+    font-style: italic;
+}
