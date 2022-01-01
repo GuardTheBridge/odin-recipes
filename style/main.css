@@ -2,7 +2,7 @@
     background-color: papayawhip;
     font-family: Arial;
 }
-h1 {
+h1, h2, img {
     color:maroon;
 }
 div {
@@ -11,4 +11,14 @@ div {
 .credit{
     font-style: italic;
     color: maroon;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.image, .links {
+    flex: 1;
+}
+.links {
+    padding: 20px;
 }
